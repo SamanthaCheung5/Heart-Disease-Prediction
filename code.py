@@ -241,6 +241,7 @@ def main():
     regression = logistic_regression(data)
     model_comparison = compare_models(knn, regression)
     plot_k_values(best_k)
+    predict(knn, regression)
 
 if __name__ == "__main__":
     main()
