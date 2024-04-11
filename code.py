@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import KFold, train_test_split, cross_validate
