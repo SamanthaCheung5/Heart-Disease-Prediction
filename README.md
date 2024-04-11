@@ -11,8 +11,10 @@ The Heart Disease Predictor is a supervised machine learning model developed to 
 ## Getting Started
 To get started with the Heart Disease Predictor,
 1.  Clone the repository to your local machine
-2.  Run the script to launch the user interface and input medical information
-3.  Obtain a personalized predicition of heart disease
+2.  chmod +x code.py to give executable permissions
+3.  Run the script which will generate bar chart showing the performance of the two ML models
+4.  Close the bar chart and input user specific data
+5.  Obtain a personalized predicition of heart disease
 
 ## Acknowledgements:
 - I would like to express gratitude to UCI Machine Learning Repository for providing the medical dataset used in the project
